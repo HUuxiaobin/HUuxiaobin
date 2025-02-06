@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=HUuxiaobin&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+[![github stats](https://github-readme-stats.vercel.app/api?username=HUuxiaobin&hide=contribs,prs&show_icons=true&theme=blueberry)](https://github.com/HUuxiaobin/github-readme-stats)
 
 
 
