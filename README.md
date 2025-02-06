@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=HUuxiaobin&hide=contribs,prs&show_icons=true&theme=blueberry)](https://github.com/HUuxiaobin/github-readme-stats)
 
 
 
